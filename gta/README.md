@@ -1,6 +1,6 @@
 # Grand Theft Auto  
 
-## GTA 5
+## GTA V
 
 [FiveM](https://fivem.net/)  
 FiveM is a modification for Grand Theft Auto V enabling you to play multiplayer on customized dedicated servers. 

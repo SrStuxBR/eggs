@@ -1,24 +1,24 @@
 # Parkers Pterodactyl eggs repo
 
-I am working on adding a large collection of public eggs for the Pterodactyl community.
+Estou trabalhando para acrescentar uma grande coleção de ovos públicos para a comunidade Pterodactyl.
 
-With that I am also accepting PR's for new services and also updates to the current ones.
+Com isso também estou aceitando RP's para novos serviços e também atualizações dos serviços atuais.
 
-If you are submitting PR's try and keep names and titles the same.
+Se você estiver enviando RP's, tente manter os nomes e títulos iguais.
 
-## How to import an egg
+## Como importar um ovo
 
-If you are reading this it looks like you are looking to add an egg to your server.
+Se você estiver lendo isto, parece que você está procurando adicionar um ovo ao seu servidor.
 
-1. Download any of the json files located in the folders below.
-   1. It's easiest to right click the `raw` button and save as.
-2. In your panel go to the `Nests` section in the admin part of the panel
-3. Click the green `Import Egg` button
-4. Browse to the json file you saved earlier
-5. Select what nest you want to put the egg in.
-   1. If you want a new nest you need to create it before importing the egg.
+1. Faça o download de qualquer um dos arquivos json localizados nas pastas abaixo.
+   1. É mais fácil clicar com o botão direito do mouse no botão 'raw' e salvar como.
+2. Em seu painel, vá para a seção "Ninhos" na parte administrativa do painel.
+3. Clique no botão verde `Import Egg'.
+4. Navegue até o arquivo json que você salvou anteriormente
+5. Selecione em que ninho você quer colocar o ovo.
+   1. Se você quiser um novo ninho, você precisa criá-lo antes de importar o ovo.
 
-# You must restart your daemon after importing an egg if you are using 0.7. This is not required on 1.X.
+# Você deve reiniciar seu daemon após a importação de um ovo se você estiver usando 0,7. Isto não é necessário no 1.X.
 
 
 ## Please read the CONTRIBUTING.md before submitting PRs

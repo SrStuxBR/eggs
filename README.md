@@ -1,27 +1,27 @@
 # Parkers Pterodactyl eggs repo
 
-Estou trabalhando para acrescentar uma grande coleção de ovos públicos para a comunidade Pterodactyl.
+Estou trabalhando para acrescentar uma grande coleção de eggs públicos para a comunidade Pterodactyl.
 
 Com isso também estou aceitando RP's para novos serviços e também atualizações dos serviços atuais.
 
 Se você estiver enviando RP's, tente manter os nomes e títulos iguais.
 
-## Como importar um ovo
+## Como importar uma eggs
 
 Se você estiver lendo isto, parece que você está procurando adicionar um ovo ao seu servidor.
 
 1. Faça o download de qualquer um dos arquivos json localizados nas pastas abaixo.
    1. É mais fácil clicar com o botão direito do mouse no botão 'raw' e salvar como.
-2. Em seu painel, vá para a seção "Ninhos" na parte administrativa do painel.
+2. Em seu painel, vá para a seção "Nests" na parte administrativa do painel.
 3. Clique no botão verde `Import Egg'.
 4. Navegue até o arquivo json que você salvou anteriormente
-5. Selecione em que ninho você quer colocar o ovo.
-   1. Se você quiser um novo ninho, você precisa criá-lo antes de importar o ovo.
+5. Selecione em que Nests você quer colocar o eggs.
+   1. Se você quiser um novo ninho, você precisa criá-lo antes de importar a eggs.
 
-# Você deve reiniciar seu daemon após a importação de um ovo se você estiver usando 0,7. Isto não é necessário no 1.X.
+# Você deve reiniciar seu daemon após a importação de um eggs se você estiver usando 0,7. Isto não é necessário no 1.X.
 
 
-## Please read the CONTRIBUTING.md before submitting PRs
+## Favor ler o CONTRIBUTING.md antes de enviar as relações públicas
 
 ## [Bots](/bots)
 
@@ -50,7 +50,7 @@ Se você estiver lendo isto, parece que você está procurando adicionar um ovo 
   * [JTS3ServerMod](/bots/teamspeak3/jts3servermod)
 
 ## [Database](/database)
-### In-Memory Databases
+### Bancos de dados In-Memory
 [Redis](/database/redis)
 * [Redis 5](/database/redis/redis-5)
 * [Redis 6](/database/redis/redis-6)
@@ -98,13 +98,13 @@ Se você estiver lendo isto, parece que você está procurando adicionar um ovo 
 [Minetest](/minetest) (including MTG)
 
 [Minecraft](/minecraft)
-* [Bedrock](/minecraft/bedrock) Servers for Bedrock Minecraft (Windows 10, mobile, console)
+* [Bedrock](/minecraft/bedrock) Servidores para Bedrock Minecraft (Windows 10, móvel, console)
   * [Bedrock](/minecraft/bedrock/bedrock)
   * [gomint](/minecraft/bedrock/gomint)
   * [Nukkit](/minecraft/bedrock/nukkit)  
   * [PocketMine MP](/minecraft/bedrock/pocketmine_mp)  
 
-* [Java](/minecraft/java) Servers for Java Minecraft
+* [Java](/minecraft/java) Servidores para Minecraft Java
   * [Cuberite](/minecraft/java/cuberite)
   * [Fabric](/minecraft/java/fabric) 
   * [Feather](/minecraft/java/feather)  
@@ -130,7 +130,7 @@ Se você estiver lendo isto, parece que você está procurando adicionar um ovo 
   * [Cross Platform](/minecraft/proxy/cross_platform)
     * [GeyserMC](/minecraft/proxy/cross_platform/geyser)
     * [Waterdog](/minecraft/proxy/cross_platform/waterdog)
-    * DragonProxy abandoned in favour of GeyserMC.
+    * DragonProxy abandonado em favor de GeyserMC.
 	
 [OpenRA](/openra)
 * [OpenRA Dune2000](/openra/openra_dune2000)
@@ -140,7 +140,7 @@ Se você estiver lendo isto, parece que você está procurando adicionar um ovo 
 [Red Dead Redemption](/rdr)
 * [RedM](/rdr/redm)
 
-[SteamCMD Servers](/steamcmd_servers) These eggs use SteamCMD to install
+[SteamCMD Servers](/steamcmd_servers) Estes eggs usam SteamCMD para instalar
 * [7 Days to Die](/steamcmd_servers/7_days_to_die)
 * [ARK: Survival Evolved](/steamcmd_servers/ark_survival_evolved)
 * [Arma](/steamcmd_servers/arma)
